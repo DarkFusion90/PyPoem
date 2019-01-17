@@ -1,2 +1,2 @@
 # PyPoem
-A Python script for fetching your favorite poems :)
+A Python script to fetch your favorite poems :)
